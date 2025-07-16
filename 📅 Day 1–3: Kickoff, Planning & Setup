@@ -1,0 +1,36 @@
+---
+
+## 📅 Day 1–3: Kickoff, Planning & Setup
+
+### 🎯 Day 1: Ideation & Team Formation
+We officially kicked off EduHackAI with live event participation, a review of key challenges in education, and early brainstorming.
+
+✅ Completed:
+- Attended kickoff session and reviewed hackathon rules
+- Chose a problem statement focusing on personalized learning for students in Kuwait
+- Formed our team: *InnovationGeeks*, building *EduPulse-AI*
+- Initial ideas mapped out for AI-driven quiz feedback and bilingual support
+
+---
+
+### 🧭 Day 2: Define Solution & Tools
+We clarified user flows and selected development platforms for rapid prototyping and AI integration.
+
+✅ Completed:
+- Finalized concept: a Power Apps solution enhanced by Azure AI to support Arabic-English learners
+- Sketched early wireframes using Power Apps Canvas (screens: Home, Quiz, Feedback)
+- Decided on **Power Platform + Azure AI + SharePoint** as our tech stack
+- Project repo created: `EduHackAI_InnovationGeeks_EduPulse-AI-APP`
+
+---
+
+### 🛠️ Day 3: Environment Setup
+Our dev environment was fully prepared to begin app logic and AI workflows.
+
+✅ Completed:
+- Activated Microsoft 365 Dev tools: Power Apps, SharePoint, Dataverse
+- Created Azure resource group and OpenAI service
+- Built initial test flow using Power Automate: user input → Azure summarization → feedback response
+- Added `/AI_Prompts/Summarization_QA.txt` to GitHub for testing
+
+---
